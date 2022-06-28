@@ -8,7 +8,7 @@ E desde já, agradeço a todos que postaram algum conteúdo na internet, pois j�
 
 Bora começar....
 
-* Dados de Petrobras: consulta dados de Petrobras e exibe um gráfico do preço de fechamento e médias de 9 e 21 períodos (200220505_dadosPETR4.py)
+* Dados de Petrobras: consulta dados de Petrobras e exibe um gráfico do preço de fechamento e médias de 9 e 21 períodos (DadosPETR4.ipynb)
 * Fórmula Mágica de Greenblat: exibe a lista das 20 melhores ações segundo a fórmula de Greenblat (20220512_formulaGreenblat.ipynb) 
 * Previsão do preço de ações usando machine learning: utiliza o modelo de rede neural LSTM para prever o preço de uma ação no próximos 10 dias. (Previsao_com_LSTM.ipynb) 
 
